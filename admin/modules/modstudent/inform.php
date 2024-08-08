@@ -86,7 +86,7 @@ setTimeout(function() {
                 $mail->Port = 587; // TCP port to connect to
 
                 // Recipients
-                $mail->setFrom('rcpitcom2@gmail.com', 'Course Cloud');
+                $mail->setFrom('youremail', 'Course Cloud');
                 $mail->addAddress($student->email); // Add a recipient
                 echo $student->email;
 
