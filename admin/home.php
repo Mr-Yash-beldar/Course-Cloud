@@ -64,7 +64,7 @@
         <div class="imgstretch">
           <img src="<?php echo web_root; ?>admin/adminMenu/images/login.png"> 
          </div>
-         <label>A S C Collage</label>
+         <label>Course Cloud</label>
         <!-- </a> -->
       </div>
     </div> 

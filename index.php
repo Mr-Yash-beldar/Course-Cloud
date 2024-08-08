@@ -52,4 +52,3 @@ switch ($view) {
     $content    = 'home.php';
 }
 require_once("navigation/navigations.php");
-?>
