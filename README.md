@@ -87,7 +87,7 @@ For any inquiries, please contact [Yashodip Beldar](yashodipbeldar@gmail.com).
 
 ## Thanks to all the Contributors ❤️
 
-<a href = "https://github.com/Mr-Yash-beldar/Course-Cloud/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Mr-Yash-beldar/Course-Cloud" alt="Contributer" width="300px">
+<a href="https://github.com/Mr-Yash-beldar/Course-Cloud/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Mr-Yash-beldar/Course-Cloud" />
 </a>
 
