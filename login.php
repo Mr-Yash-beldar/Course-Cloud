@@ -67,19 +67,21 @@ if (isset($_SESSION['StudentID'])) {
             </button>
           </div>
 
-      <!--     <div class="text-center p-t-12">
-            <span class="txt1">
-              Forgot
-            </span>
-            <a class="txt2" href="#">
-              Username / Password?
-            </a>
-          </div> -->
-
-          <div class="text-center p-t-136">
-            <a class="txt2" href="register.php">
+          <div class="text-center p-t-14"  style="margin-top:20px">
+            <span class="txt2">
+            <a class="txt2"  style="font-size:17px" href="register.php">
               Create your Account
               <i class="fa fa-long-arrow-right m-l-5" aria-hidden="true"></i>
+            </a>
+            </span>
+           
+          </div>
+
+     
+          <div class="text-center p-t-120">
+            <a class="txt2"  style="font-size:25px; color:green;" href="admin">
+              Access Admin
+              <i class="fa fa-user m-l-5" aria-hidden="true"></i>
             </a>
           </div>
         </form>
