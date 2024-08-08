@@ -1,5 +1,5 @@
 <?php 
-require_once 'include/initialize.php';
+require_once './include/initialize.php';
 // Four steps to closing a session
 // (i.e. logging out)
 
