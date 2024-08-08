@@ -5,9 +5,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="">
 <meta name="author" content="">
-<title><?php echo $title;?> | ASC Collage</title>
+<title><?php echo $title;?> | Course Cloud</title>
 
 <!-- Bootstrap core CSS -->
+<link rel="icon" type="image/png" href="./images/icon.png"/>
 <link href="<?php echo web_root; ?>css/bootstrap.min.css" rel="stylesheet">
 <link href="<?php echo web_root; ?>css/bootstrap-datetimepicker.min.css" rel="stylesheet" media="screen">
 <link href="<?php echo web_root; ?>css/dataTables.bootstrap.css" rel="stylesheet" media="screen">  
@@ -136,7 +137,7 @@ clear: both;
 <body >
 <section id="title-header">
   <div class="title">  
-     <img class="logo" src="./images/logo.png" height="40px"><br> Course Cloud
+     <img class="logo" src="./images/logo.png" height="60px">
       <br>Online learning Portal
       <p class="subtitle">Made With ❤️ By <a style="color:white" href="https://github.com/Mr-Yash-beldar/">Yashodip Beldar</a> </p> 
   </div>

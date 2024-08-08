@@ -5,9 +5,10 @@
 <meta name="description" content="">
 <meta name="author" content="">
 
-<title>Bachelor of Computer Applications</title>
+<title>Course Cloud | Admin</title>
 
 <!-- Bootstrap core CSS -->
+<link rel="icon" type="image/png" href="../adminMenu/images/icon.png"/>
 <link href="<?php echo web_root; ?>css/bootstrap.min.css" rel="stylesheet">
 <link href="<?php echo web_root; ?>css/bootstrap-datetimepicker.min.css" rel="stylesheet" media="screen"/>
 <link href="<?php echo web_root; ?>css/dataTables.bootstrap.css" rel="stylesheet" media="screen"/>  
@@ -21,20 +22,21 @@
 <!-- Plugins -->
 
  <style type="text/css">
-/*     #navigation {
+    #navigation {
         margin-bottom: 40px;
      }
      #page-wrapper{
         min-height: 900px;
      }
      #page-footer {
+      background-color: rgb(63, 155, 11);
         border-top: 1px solid #ddd;
         margin-top: -15px;
         padding: 10px;
      }*/
     /* * { 
         font-family: 'Lucida Calligraphy';
-     }*/
+     }
  </style>
 <!-- Custom styles for this template -->
 <!-- <link href="<?php echo web_root; ?>css/offcanvas.css" rel="stylesheet"> -->
@@ -51,7 +53,7 @@
     <span class="icon-bar"></span>
     <span class="icon-bar"></span>
   </button>
-  <a class="navbar-brand"  href="<?php echo web_root; ?>admin/index.php" >Bachelor of Computer Applications </a>
+  <a class="navbar-brand"  href="<?php echo web_root; ?>admin/index.php" >Course Cloud Admin</a>
 </div>
 
   <ul class="nav navbar-top-links navbar-right" >
@@ -101,7 +103,7 @@
  </section> 
 
 <section id="page-footer"> 
-      <footer>  <p align="center">&copy; Bachelor of Computer Applications </p></footer>
+      <footer>  <p align="center">&copy;2O24 <a style="color:white" href="https://github.com/Mr-Yash-beldar/Course-Cloud"> Course Cloud </a></p></footer>
 </section>
 <!-- Plugins -->
 

@@ -20,7 +20,7 @@ if (isset($_SESSION['StudentID'])) {
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 <!--===============================================================================================-->  
-  <link rel="icon" type="image/png" href="images/icons/favicon.ico"/>
+  <link rel="icon" type="image/png" href="images/icon.png"/>
 
 <link href="<?php echo web_root; ?>css/bootstrap.min.css" rel="stylesheet"> 
 <link href="<?php echo web_root; ?>fonts/font-awesome.min.css" rel="stylesheet" media="screen">  

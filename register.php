@@ -10,17 +10,18 @@ if (isset($_SESSION['StudentID'])) {
 <html lang="en">
 <head>
 <meta charset="utf-8">
+<link rel="icon" type="image/png" href="./images/icon.png"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="">
 <meta name="author" content="">
-<title>Register</title>
+<title>Register | Course Cloud</title>
 
 <!-- Bootstrap core CSS -->
 <link href="<?php echo web_root; ?>css/bootstrap.min.css" rel="stylesheet"> 
 <link href="<?php echo web_root; ?>fonts/font-awesome.min.css" rel="stylesheet" media="screen">  
   <style type="text/css">
     #title-header {
-  background-color: rgb(0, 67, 200); 
+  background-color: rgb(63, 155, 11);
   border-bottom: 1px solid #ddd; 
   height: 130px;  
   padding: 10px 0px;
@@ -32,9 +33,10 @@ if (isset($_SESSION['StudentID'])) {
   </style>
 <section id="title-header">
   <div class="title">  
-     <img class="logo" src="images/logo.png" height="40px"> <br>ASC Collage Chopda 
-      <br>Chopda, Jalgaon
-      <p class="subtitle"> Bachelor of Computer Applications</p> 
+     <img class="logo" src="images/logo.png" height="60px">
+      <br>Online learning Portal
+      <p class="subtitle">Made With ❤️ By <a style="color:white" href="https://github.com/Mr-Yash-beldar/">Yashodip Beldar</a> </p> 
+ 
   </div>
 </section> 
  <div class="container" style="min-height: 500px;">  
@@ -166,8 +168,8 @@ if (isset($_POST['btnRegister'])) {
 }
 
 ?>
-   <footer style="height: 100px;border-top:1px solid #ddd;padding: 5px;background-color: blue; color:#fff;">
-              <p align="left">&copy; ASC Collage, Chopda</p>
+   <footer style="height: 100px;border-top:1px solid #ddd;padding: 5px;background-color: rgb(63, 155, 11); color:#fff;">
+              <p align="left">&copy; 2O24   <a style="color:white"href="https://github.com/Mr-Yash-beldar/Course-Cloud"> Course Cloud </a></p>
      </footer>
  </section>
  

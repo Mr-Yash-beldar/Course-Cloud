@@ -24,7 +24,7 @@ require_once("../include/initialize.php");
   <link href="<?php echo web_root; ?>css/bootstrap.min.css" rel="stylesheet"> 
  
 <!--===============================================================================================-->  
-  <link rel="icon" type="image/png" href="images/icons/favicon.ico"/>
+  <link rel="icon" type="image/png" href="./adminMenu/images/icon.png"/>
 <!--===============================================================================================-->
   <link rel="stylesheet" type="text/css" href="<?php echo web_root; ?>admin/adminMenu/vendor/bootstrap/css/bootstrap.min.css">
 <!--===============================================================================================-->
