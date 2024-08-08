@@ -37,7 +37,7 @@
   /*margin-left: 5px;*/
 }
 #footer > footer { 
-    background-color: rgb(0, 67, 200);
+    background-color: rgb(63, 155, 11);
   min-height: 50px;
   padding: 10px; 
   border-top: 1px solid #ddd;
@@ -97,30 +97,30 @@ clear: both;
 
 #lesson {
     top: 180px;
-    background-color: rgb(0, 67, 200)
+    background-color: rgb(63, 155, 11);
 }
 
 #exercise {
     top:260px;
-    background-color: rgb(0, 81, 242);
+    background-color: rgb(63, 155, 11);
 }
 
 #download {
     top: 340px;
-    background-color: rgb(33, 107, 255);
+    background-color: rgb(63, 155, 11);;
 }
 
 #about {
     top: 420px;
-    background-color: rgb(79, 138, 255);
+    background-color: rgb(63, 155, 11);
 }
 #login {
     top: 500px;
-    background-color: rgb(137, 176, 255);
+    background-color: rgb(63, 155, 11);
 }
 
 #title-header {
-  background-color: rgb(0, 67, 200); 
+  background-color: rgb(63, 155, 11);
   border-bottom: 1px solid #ddd; 
   height: 130px;  
   padding: 10px 0px;
@@ -136,9 +136,9 @@ clear: both;
 <body >
 <section id="title-header">
   <div class="title">  
-     <img class="logo" src="./images/logo.png" height="40px"><br> ASC Collage Chopda
-      <br>Chopda, Jalgaon
-      <p class="subtitle">Bachelor of Computer Applications </p> 
+     <img class="logo" src="./images/logo.png" height="40px"><br> Course Cloud
+      <br>Online learning Portal
+      <p class="subtitle">Made With ❤️ By <a style="color:white" href="https://github.com/Mr-Yash-beldar/">Yashodip Beldar</a> </p> 
   </div>
 </section>  
 <section id="navigation">
@@ -163,7 +163,9 @@ clear: both;
 
 </div>   -->
 <footer  >
-    <p align="left">&copy; ASC Collage, Chopda</p>
+    <p align="left">&copy; 2024
+      <a style="color:white"href="https://github.com/Mr-Yash-beldar/Course-Cloud"> Course Cloud </a>
+     </p>
 </footer>
 </section>
   <script type="text/javascript" language="javascript" src="<?php echo web_root; ?>jquery/jquery.min.js"></script>
