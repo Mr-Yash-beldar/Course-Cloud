@@ -36,8 +36,8 @@ if (isset($_SESSION['StudentID'])) {
     <div class="container-login100">
            <?php check_message(); ?>
       <div class="wrap-login100">
-        <div class="login100-pic js-tilt" data-tilt  style="background: #0037a4f5;">
-          <img src="images/login1.png" style="width: 100%;object-fit: contain;height: 100%" alt="IMG">
+        <div class="login100-pic js-tilt" data-tilt  style="background: # fff;">
+          <img src="images/login1.png" alt="IMG">
         </div>
          
         <form class="login100-form validate-form" action="" method="POST"> 
